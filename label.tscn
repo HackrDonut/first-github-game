@@ -1,0 +1,14 @@
+[gd_scene load_steps=2 format=3 uid="uid://dnp3pkphg8b8l"]
+
+[sub_resource type="LabelSettings" id="LabelSettings_qxbms"]
+font_size = 42
+outline_size = 4
+outline_color = Color(0, 0, 0, 1)
+
+[node name="Label" type="Label"]
+offset_left = 493.0
+offset_top = 224.0
+offset_right = 579.0
+offset_bottom = 250.0
+text = "Luke Pruitt"
+label_settings = SubResource("LabelSettings_qxbms")
